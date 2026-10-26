@@ -1,0 +1,13 @@
+{
+  "chat.disableAIFeatures": true,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "github.copilot.editor.enableCodeActions": false,
+  "github.copilot.chat.claudeAgent.enabled": false,
+  "chat.agent.enabled": false,
+  "editor.inlineSuggest.enabled": false,
+  "workbench.settings.showAISearchToggle": false,
+  "chat.commandCenter.enabled": false
+}

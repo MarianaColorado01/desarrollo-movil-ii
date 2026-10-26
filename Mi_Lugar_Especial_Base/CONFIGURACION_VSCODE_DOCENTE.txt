@@ -1,0 +1,9 @@
+CONFIGURACIÓN DE VS CODE PARA LA EVALUACIÓN
+
+Este proyecto incluye .vscode/settings.json para desactivar las funciones integradas de IA de VS Code y GitHub Copilot mientras se trabaja en esta carpeta.
+
+No altera los archivos de la aplicación, las herramientas de programación, el terminal, npm, Expo, las instalaciones de dependencias, Leaflet ni OpenStreetMap.
+
+IMPORTANTE: una configuración de proyecto NO impide que un estudiante la modifique ni bloquea de manera universal extensiones independientes de IA (Claude, Gemini, ChatGPT, etc.) instaladas en su propio equipo. Para garantizar esas restricciones se requiere controlar VS Code desde el sistema o mediante políticas del dispositivo.
+
+Para aplicar la configuración, abrir directamente la carpeta Mi_Lugar_Especial_Base en Visual Studio Code.
