@@ -1,0 +1,18 @@
+PARCIAL 2 MÓVIL 2 - EventHub
+Este ZIP contiene SOLO el proyecto base para la sesión 1.
+Requiere Node y dependencias previamente instaladas en los equipos.
+Abrir carpeta, npm install (si es necesario), npx expo start.
+No contiene la guía ni las instrucciones de la sesión 2.
+No cambiar Expo SDK 57, NativeWind 4.2.7 ni Tailwind 3.4.17.
+No entregar node_modules ni .expo.
+
+RECURSOS: assets/images/registro_1.png a registro_4.png. Mapa de require: data/registros.ts > imagenesPorId.
+
+
+APLICATIVO ASIGNADO
+EventHub — Agenda visual de eventos locales
+DESTINATARIOS: Personas interesadas en actividades culturales, deportivas y comunitarias
+OBJETIVO: Descubrir cuatro eventos de ejemplo y consultar una ficha de cada uno. No debe implementar inscripción ni venta de entradas.
+EJEMPLOS: Concierto Local, Feria de Ideas, Encuentro Deportivo y Festival Cultural
+RECORRIDO: catálogo > ficha por ID > regreso; Tabs y Drawer funcionales.
+No se desarrollan ni revelan requisitos de sesión 2.

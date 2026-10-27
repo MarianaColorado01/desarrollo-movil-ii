@@ -1,0 +1,13 @@
+{
+  "recommendations": [],
+  "unwantedRecommendations": [
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "OpenAI.chatgpt",
+    "Anthropic.claude-code",
+    "Google.geminicodeassist",
+    "Continue.continue",
+    "Codeium.codeium",
+    "TabNine.tabnine-vscode"
+  ]
+}

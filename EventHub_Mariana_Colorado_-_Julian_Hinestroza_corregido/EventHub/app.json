@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "EventHub Parcial 2",
+    "slug": "eventhub-parcial2",
+    "scheme": "milugarespecial",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
